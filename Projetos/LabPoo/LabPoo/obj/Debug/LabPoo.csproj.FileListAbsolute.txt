@@ -1,0 +1,6 @@
+c:\users\faberhenrique\documents\visual studio 2015\Projects\LabPoo\LabPoo\bin\Debug\LabPoo.exe.config
+c:\users\faberhenrique\documents\visual studio 2015\Projects\LabPoo\LabPoo\bin\Debug\LabPoo.exe
+c:\users\faberhenrique\documents\visual studio 2015\Projects\LabPoo\LabPoo\bin\Debug\LabPoo.pdb
+c:\users\faberhenrique\documents\visual studio 2015\Projects\LabPoo\LabPoo\obj\Debug\LabPoo.csprojResolveAssemblyReference.cache
+c:\users\faberhenrique\documents\visual studio 2015\Projects\LabPoo\LabPoo\obj\Debug\LabPoo.exe
+c:\users\faberhenrique\documents\visual studio 2015\Projects\LabPoo\LabPoo\obj\Debug\LabPoo.pdb
